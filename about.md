@@ -14,4 +14,4 @@ Major: Computer Engineering
 
 ### Contact me
 
-[email@domain.com](mailto:ssuni9986@handong.ac.kr)
+[ssuni9986@handong.ac.kr](mailto:ssuni9986@handong.ac.kr)
