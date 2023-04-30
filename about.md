@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-name: Suhyeon Hwang
-Birthday: 2000.05.22
+name: Suhyeon Hwang\n
+Birthday: 2000.05.22\n
 Major: Computer Engineering
 
 ### More Information
